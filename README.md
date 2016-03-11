@@ -1,6 +1,6 @@
 # intellij-library-jopt-simple
 
-`intellij-library-jopt-simple` provides Paul R Holser, Jr's [jopt-simple] library with a bundled [IntelliJ IDEA] `jopt_simple.xml` for reuse in multiple [IntelliJ IDEA] projects.
+intellij-library-jopt-simple provides Paul R Holser, Jr's [jopt-simple] library with a bundled [IntelliJ IDEA] `jopt_simple.xml` for reuse in multiple [IntelliJ IDEA] projects.
 
 
 ## Usage
