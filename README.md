@@ -1,6 +1,6 @@
 # intellij-library-jopt-simple
 
-`intellij-library-jopt-simple` provides Paul R Holser, Jr's [jopt-simple] library with a bundled IntelliJ jopt_simple.xml for reuse in multiple [IntelliJ IDEA] projects.
+`intellij-library-jopt-simple` provides Paul R Holser, Jr's [jopt-simple] library with a bundled [IntelliJ IDEA] `jopt_simple.xml` for reuse in multiple [IntelliJ IDEA] projects.
 
 
 ## Usage
@@ -29,3 +29,4 @@ The license for this project is MIT.
 
 [IntelliJ IDEA]: https://www.jetbrains.com/idea/ "IntelliJ IDEA home page"
 [intellij-project-template]: https://github.com/raphaelcohn/intellij-project-template.git: "intellij-project-template home page"
+[jopt-simple]: https://pholser.github.io/jopt-simple/ "jopt-simple home page"
